@@ -1,0 +1,40 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+} Command bmon in package bmon
+ Command join in package coreutils
+ Command eog in package eog from the x11-repo repository
+ Command ein in package gitoxide
+ Command gn in package gn
+ Command go in package golang
+ Command dot in package graphviz
+ Command eqn in package groff
+ Command gron in package gron
+ Command nona in package hugin from the x11-repo repository
+ Command jo in package jo
+ Command joe in package joe
+ Command joe in package jupp
+ Command not in package llvm-tools
+ Command mhn in package mailutils
+ Command man in package mandoc
+ Command mvn in package maven
+ Command mod in package mono
+ Command mop in package mop
+ Command toe in package ncurses-utils
+ Command mhn in package nmh
+ Command nmon in package nmon
+ Command nnn in package nnn
+ Command ol in package ol
+ Command o in package orbiton
+ Command moc in package qt5-qtbase from the x11-repo repository
+ Command co in package rcs
+ Command sox in package sox
+ Command svn in package subversion
+ Command sun in package sun
+ Command top in package termux-tools
+ Command sn in package tin-summer
+ Command tor in package tor
+ Command col in package util-linux
+ Command wol in package wol
+Control + Shift + m
+
